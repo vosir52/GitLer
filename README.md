@@ -14,4 +14,6 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/vosir52/vosir52brat
+2. Запустите приложение:
+   python main.py
