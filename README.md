@@ -16,5 +16,5 @@
    ```bash
    git clone https://github.com/vosir52/vosir52brat
 2. Запустите приложение:
-3. ```
+   ```
    python main.py
